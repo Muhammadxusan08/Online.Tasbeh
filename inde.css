@@ -1,0 +1,139 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #7887AB;
+
+}
+
+.header {
+    padding-top: 265px;
+    padding-bottom: 265px;
+}
+
+.header-container {
+    max-width: 1480px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.card {
+    width: 550px;
+    background-color: #2E4272;
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 60px;
+    padding-bottom: 50px;
+}
+
+.card-text {
+    margin-top: 82px;
+    Width: 450px;
+    padding-top: 98px;
+    background-color: white;
+    font-family: sans-serif;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 58px;
+    letter-spacing: 0em;
+    text-align: right;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 43px;
+}
+
+.cards-btn {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.button-1 {
+    padding-top: 31px;
+    padding-bottom: 31px;
+    padding-left: 23px;
+    padding-right: 23px;
+    border-radius: 15px;
+    border: none;
+    background-color: #D05A50;
+    font-family: Inter, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: right;
+    color: white;
+    cursor: pointer;
+}
+
+.button-2 {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: none;
+    background-color: #061539;
+    font-family: Inter, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -50px;
+    cursor: pointer;
+}
+
+.button-3 {
+    padding-top: 31px;
+    padding-bottom: 31px;
+    padding-left: 31px;
+    padding-right: 31px;
+    border-radius: 15px;
+    border: none;
+    background-color: #58B058;
+    font-family: Inter, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: right;
+    color: white;
+    cursor: pointer;
+}
+
+/* Footer */
+.footer {
+    padding-top: 135px;
+    padding-bottom: 135px;
+    background-color: #162955;
+
+}
+
+.footer-container {
+    max-width: 1480px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer-text {
+    text-align: center;
+    font-family: Inter, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+color: white;
+}
