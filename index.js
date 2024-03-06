@@ -15,6 +15,6 @@ btn3.addEventListener('click' , function(){
 })
 
 btn1.addEventListener('click' , function(){
-    text.textContent = '0'
+    text.textContent = text.textContent *1-1
 
 })
